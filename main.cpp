@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
+//  Noun: car
 //  action 1:
-
+car.accelerate()
 //  action 2:
-
+car.brake()
 //  action 3:
+car.stop()
  
 //  2)
-//  Noun:
+//  Noun: bird
 //  action 1:
-
+bird.fly()
 //  action 2:
-
+bird.flapWings()
 //  action 3:
+bird.layEgg()
  
 //  3)
-//  Noun:
+//  Noun: wind
 //  action 1:
-
+wind.increase()
 //  action 2:
-
+wind.decrease()
 //  action 3:
- 
+wind.stop() 
+
 //  4)
-//  Noun:
+//  Noun: phone
 //  action 1:
-
+phone.ring()
 //  action 2:
-
+phone.sendNotification()
 //  action 3:
- 
+phone.restart()
+
 //  5)
-//  Noun:
+//  Noun: iceCream
 //  action 1:
-
+iceCream.freeze()
 //  action 2:
-
+iceCream.melt()
 //  action 3:
- 
+iceCream.drip() 
+
 //  6)
-//  Noun:
+//  Noun: computer 
 //  action 1:
-
+computer.startUp()
 //  action 2:
-
+computer.compute()
 //  action 3:
+computer.openFile()
  
 //  7)
-//  Noun:
+//  Noun: light
 //  action 1:
-
+light.flash()
 //  action 2:
-
+light.illuminate()
 //  action 3:
- 
+light.explode()
+
 //  8)
+//  Noun: turtle
+//  action 1:
+turtle.swim()
+//  action 2:
+turtle.walk()
+//  action 3:
+turtle.hide() 
+
+//  9) cat
 //  Noun:
 //  action 1:
-
+cat.sleep()
 //  action 2:
-
+cat.complain() 
 //  action 3:
- 
-//  9)
+cat.eat()
+
+//  10) fridge
 //  Noun:
 //  action 1:
-
+fridge.cool()
 //  action 2:
-
+firge.defrost()
 //  action 3:
- 
-//  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+fridge.explode()
 
 
 #endif

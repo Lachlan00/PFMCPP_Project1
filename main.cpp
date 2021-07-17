@@ -115,13 +115,13 @@ light.illuminate();
 light.explode();
 
 //  8)
-//  Noun: turtle
-//  action 1: the tutrle swims
-turtle.swim();
-//  action 2: the turtle walks
-turtle.walk();
-//  action 3: the turtle hides
-turtle.hide(); 
+//  Noun: Galapagos Tortoise
+//  action 1: the galapagos Tortoise hides in its shell
+galapagosTortoise.hideShell();
+//  action 2: the galapagos Tortoise seeks shade
+galapagosTortoise.seekShade();
+//  action 3: the galapagos Tortoise lays an egg 
+galapagosTortoise.layEgg(); 
 
 //  9) cat
 //  Noun:
@@ -137,7 +137,7 @@ cat.eat();
 //  action 1: the fridge cools
 fridge.cool();
 //  action 2:  the fridge deforsts
-firge.defrost();
+fridge.defrost();
 //  action 3: the fridge EXPLODES!
 fridge.explode();
 

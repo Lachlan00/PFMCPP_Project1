@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: car
+//  action 1: the car accelerates
+car.accelerate();
+//  action 2: the. car brakes
+car.brake();
+//  action 3: the car stops
+car.stop();
  
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: bird
+//  action 1: the bird flys
+bird.fly();
+//  action 2: the bird flaps wigs
+bird.flapWings();
+//  action 3: the bird lays an egg
+bird.layEgg();
  
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: wind
+//  action 1: the wind increases
+wind.increase();
+//  action 2: the wind decreases
+wind.decrease();
+//  action 3: the wind stops
+wind.stop();
 
-//  action 2:
-
-//  action 3:
- 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: phone
+//  action 1: the phone rings
+phone.ring();
+//  action 2: the phone sends a notification
+phone.sendNotification();
+//  action 3: the phone restarts
+phone.restart();
 
-//  action 2:
-
-//  action 3:
- 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: iceCream
+//  action 1: the ice cream freezes
+iceCream.freeze();
+//  action 2: the ice cream melts
+iceCream.melt();
+//  action 3: the ice cream drips
+iceCream.drip();
 
-//  action 2:
-
-//  action 3:
- 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: computer 
+//  action 1: the computer starts up
+computer.startUp();
+//  action 2: the computer computes
+computer.compute();
+//  action 3: the computer opens a file
+computer.openFile();
  
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: light
+//  action 1: the light flashes
+light.flash();
+//  action 2: the light illuminates
+light.illuminate();
+//  action 3: the light EXPLODES!
+light.explode();
 
-//  action 2:
-
-//  action 3:
- 
 //  8)
+//  Noun: Galapagos Tortoise
+//  action 1: the galapagos Tortoise hides in its shell
+galapagosTortoise.hideShell();
+//  action 2: the galapagos Tortoise seeks shade
+galapagosTortoise.seekShade();
+//  action 3: the galapagos Tortoise lays an egg 
+galapagosTortoise.layEgg(); 
+
+//  9) cat
 //  Noun:
-//  action 1:
+//  action 1: the cat sleeps
+cat.sleep();
+//  action 2: the cat complains
+cat.complain(); 
+//  action 3: the cat eats
+cat.eat();
 
-//  action 2:
-
-//  action 3:
- 
-//  9)
+//  10) fridge
 //  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  action 1: the fridge cools
+fridge.cool();
+//  action 2:  the fridge deforsts
+fridge.defrost();
+//  action 3: the fridge EXPLODES!
+fridge.explode();
 
 
 #endif
